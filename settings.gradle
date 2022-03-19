@@ -1,3 +1,4 @@
 rootProject.name = "MyViewPagerTest"
 include ':app'
 include ':mytest1'
+include ':mytest2'
